@@ -1,8 +1,10 @@
 # LabView-Sensor-Systems
 
+This Sensor system was designed for a final project that requires students to create LED patterns. This project incorporated LabView, an industrial sensor-control software, to control logic and the D/A output to the LEDs. Through various iterations of VIs, I (Caleb Ginting) developed recorder.vi and player.vi, which allows users to easily program LED lights with a computer by recording their pattern of keystrokes. See 460 Project Paper.pdf for a higher level description of this project.
+
 ALL FILES MUST BE IN THE SAME FOLDER.
 
-See IMG_0312 for a physical hardware setup. The setup will require 8 LEDs, 18 wires, a breadboard, a National Instruments MyDAQ, Labview software (2022 release), and a computer with a USB-B connection.
+See IMG_0312 for a physical hardware setup. The setup will require 8 LEDs, 18 wires, a breadboard, a National Instruments MyDAQ, Labview software (2022 release), and a computer with a USB-B connection. 
 
 The objective of these programs are to create and implement various LED systems. The systems are digitally displayed in LabView, but phsyical displays can be made using a National Instruments MyDAQ.
 
